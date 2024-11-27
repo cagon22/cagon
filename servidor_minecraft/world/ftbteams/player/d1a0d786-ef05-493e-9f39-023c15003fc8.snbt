@@ -1,0 +1,15 @@
+{
+	id: "d1a0d786-ef05-493e-9f39-023c15003fc8"
+	type: "player"
+	player_name: "IVerzzXV"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "IVerzzXV"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFAC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

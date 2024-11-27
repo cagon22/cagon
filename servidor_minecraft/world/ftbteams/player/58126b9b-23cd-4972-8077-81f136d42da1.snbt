@@ -1,0 +1,15 @@
+{
+	id: "58126b9b-23cd-4972-8077-81f136d42da1"
+	type: "player"
+	player_name: "RAMOS_28"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "RAMOS_28"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF9C"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

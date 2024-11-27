@@ -1,0 +1,22 @@
+{
+	id: "05b8f66e-126e-462b-b084-edcf1fe52da1"
+	type: "party"
+	owner: "d1a0d786-ef05-493e-9f39-023c15003fc8"
+	ranks: {
+		d1a0d786-ef05-493e-9f39-023c15003fc8: "owner"
+		58126b9b-23cd-4972-8077-81f136d42da1: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "IVerzzXV's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFAC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1732388967891L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"IVerzzXV\"}]}" }
+		{ from: "d1a0d786-ef05-493e-9f39-023c15003fc8", date: 1732388967934L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"RAMOS_28\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1732389033357L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"RAMOS_28\"}]}" }
+	]
+	extra: { }
+}
